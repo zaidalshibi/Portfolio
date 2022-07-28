@@ -11,42 +11,23 @@
     },
     "projects": [
       {
-        "title": "Animal Shelter",
-        "startDate": "2020",
-        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+        "title": "Horned Beasts",
+        "startDate": "2022",
+        "description": "Personal project for study subject. create a Responsive application that displays images and information of horned animals. This application will allow you to filter the images by number of horns and choose your favorite image. I've earned A grade : 100% ✔",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "images/portfolio/horned-beast/p1.png",
+          "images/portfolio/horned-beast/p2-1.png",
+          "images/portfolio/horned-beast/p2-2.png"
         ],
-        "url": "",
-        "technologies": [
-          {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
-          },
-          {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
-          }
-        ]
-      },
-      {
-        "title": "Photography",
-        "startDate": "2018",
-        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
-        "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
-        ],
-        "url": "https://github.com",
+        "url": "https://github.com/zaidalshibi/horned-beast",
         "technologies": [
           {
             "class": "devicon-react-original",
             "name": "React"
+          },
+          {
+            "class": "devicon-bootstrap-plain",
+            "name": "Bootstrap"
           },
           {
             "class": "devicon-javascript-plain",
@@ -55,63 +36,44 @@
         ]
       },
       {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+        "title": "Chocolate Pizza",
+        "startDate": "2022",
+        "description": "One of the first apps I was working on my intensive course. I developed front-end implementation for app that shows full well-designed page. This was also my first full project in using HTML and CSS. I've learned a lot!",
         "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
+          "images/portfolio/chocoPizza/p1.png",
+          "images/portfolio/chocoPizza/p2-1.png",
+          "images/portfolio/chocoPizza/p2-2.png"
         ],
-        "url": "https://github.com",
+        "url": "https://github.com/zaidalshibi/chocolatePizza",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-html5-plain",
+            "name": "HTML 5"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-css3-plain",
+            "name": "CSS 3"
           }
         ]
       }
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
+        "company": "LTUC - ASAC",
+        "title": "Full Stack Development Micro-Diploma",
+        "years": "6/2022 - Present",
         "mainTech": [
-          "Angular 8/9/10"
+          "React.JS",
+          "Node.JS"
         ],
         "technologies": [
-          "REST API",
-          "RxJS",
+          "HTML 5",
+          "CSS 3",
           "JavaScript",
+          "React.JS",
           "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
-        ]
-      },
-      {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
-        "mainTech": [
-          "Angular 7/8"
-        ],
-        "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
-          "JavaScript",
-          "DHTMLX Gantt"
+          "Node.JS",
+          "MongoDB"
         ]
       }
     ]
