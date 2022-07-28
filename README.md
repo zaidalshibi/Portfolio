@@ -1,3 +1,3 @@
-# Modify this portfolio
+# Zaid Alshib's Portfolio
 
-Make it your own!
+## Check my live deployed page [Zaid's Portfolio](https://zaidalshibiportfolio.netlify.app/)
