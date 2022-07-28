@@ -1,17 +1,17 @@
 {
     "basic_info": {
       "name": "Zaid Alshibi",
-      "titles": [ "Software Developer" ],
+      "titles": [ "Mechatronics Engineer and Front-end Developer" ],
       "social": [
         {
           "name": "github",
-          "url": "https://github.com",
+          "url": "https://github.com/zaidalshibi",
           "class": "fab fa-github"
         },
         {
-          "name": "instagram",
-          "url": "https://www.instagram.com",
-          "class": "fab fa-instagram"
+          "name": "LinkedIn",
+          "url": "https://www.linkedin.com/in/zaidalshibi/",
+          "class": "fab fa-linkedin"
         }
       ],
       "image": "myProfile.jpg"
