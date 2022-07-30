@@ -15,8 +15,8 @@
         "startDate": "2022",
         "description": "Personal project for study subject. create a Responsive application that displays images and information of horned animals. This application will allow you to filter the images by number of horns and choose your favorite image. I've earned A grade : 100% ✔",
         "images": [
-          "images/portfolio/horned-beast/p1.png",
           "images/portfolio/horned-beast/p2-1.png",
+          "images/portfolio/horned-beast/p1.png",
           "images/portfolio/horned-beast/p2-2.png"
         ],
         "url": "https://github.com/zaidalshibi/horned-beast",
@@ -28,6 +28,30 @@
           {
             "class": "devicon-bootstrap-plain",
             "name": "Bootstrap"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          }
+        ]
+      },
+      {
+        "title": "HR Managment System",
+        "startDate": "2022",
+        "description": "One of the first apps I was working on with DOM for JavaScript. I developed front-end implementation for app that shows full well-designed page. This app is used by HR department to manage their employees. I've earned A grade : 100% ✔",
+        "images": [
+          "images/portfolio/HR-system/p2.png",
+          "images/portfolio/HR-system/p1.png"
+        ],
+        "url": "https://github.com/zaidalshibi/HR-management-system",
+        "technologies": [
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML 5"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS 3"
           },
           {
             "class": "devicon-javascript-plain",

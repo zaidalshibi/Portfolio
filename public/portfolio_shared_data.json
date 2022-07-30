@@ -1,6 +1,6 @@
 {
     "basic_info": {
-      "name": "Zaid Alshibi",
+      "name": "Zaid Emad Alshibi",
       "titles": [ "Mechatronics Engineer and Front-end Developer" ],
       "social": [
         {
@@ -41,6 +41,11 @@
         {
           "name": "React",
           "class": "devicon-react-original",
+          "level": "70"
+        },
+        {
+          "name": "Sass",
+          "class": "devicon-sass-original",
           "level": "70"
         },
         {

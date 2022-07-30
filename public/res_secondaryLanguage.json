@@ -1,7 +1,7 @@
 {
     "basic_info": {
-      "description_header": "العربية",
-      "description": "👋 Jestem Zaid Alshibi. Fikcyjna osoba na potrzeby demonstracji. Pracuję z najnowszymi frameworkami front-end takimi jak Angular, React i Vue. To co teraz widzisz to szablon portfolio od Code Fellows. Jeżeli podoba Ci się ten szablon portfolio nie zapomnij o ⭐, żeby było bardziej rozpoznawalne dla innych użytkowników. Dzięki 💜",
+      "description_header": "مرحبا",
+      "description": "👋 انا زيد الشيبي. مهندس ميكاترونيكس اتعلم كيف اصبح مطور ويب! طالب في كلية عبد العزيز الغرير للحوسبة المتقدمة اتعلم برمجة تطبيقات الويب , شكرا لك 💜",
       "section_name": {
         "about": "نبذة عني",
         "projects": "المشاريع",
@@ -28,6 +28,30 @@
           {
             "class": "devicon-bootstrap-plain",
             "name": "Bootstrap"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          }
+        ]
+      },
+      {
+        "title": "نظام ادارة الموارد البشرية",
+        "startDate": "2022",
+        "description": "لقد طورت تنفيذ الواجهة الأمامية للتطبيق الذي يعرض صفحة كاملة جيدة التصميم. يستخدم هذا التطبيق من قبل قسم الموارد البشرية لإدارة موظفيهم",
+        "images": [
+          "images/portfolio/HR-system/p2.png",
+          "images/portfolio/HR-system/p1.png"
+        ],
+        "url": "https://github.com/zaidalshibi/HR-management-system",
+        "technologies": [
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML 5"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS 3"
           },
           {
             "class": "devicon-javascript-plain",
